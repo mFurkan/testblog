@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://mfurkan.github.io/testblog"
+title: Test Blog
 paginate: 5
 theme: PaperMod
 
